@@ -5,13 +5,13 @@
 # compile C with C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe
 ASM_DEFINES = -DDEBUG -DSTM32F107xC -DUSE_HAL_DRIVER
 
-ASM_INCLUDES = -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Include
+ASM_INCLUDES = -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\App -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\Target -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Inc
 
 ASM_FLAGS = -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
 
 C_DEFINES = -DDEBUG -DSTM32F107xC -DUSE_HAL_DRIVER
 
-C_INCLUDES = -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Include
+C_INCLUDES = -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\CMSIS\Include -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\App -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\Target -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Inc -IC:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Inc
 
 C_FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
 

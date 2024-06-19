@@ -26,6 +26,10 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc"
   )
 
 # The set of dependency files which are needed:
@@ -44,11 +48,23 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj.d"
   "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj" "gcc" "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj" "gcc" "CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.c" "CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj" "gcc" "CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj.d"
+  "C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.c" "CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj" "gcc" "CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

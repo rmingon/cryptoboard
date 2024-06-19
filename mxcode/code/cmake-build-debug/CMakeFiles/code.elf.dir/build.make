@@ -277,10 +277,24 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
 
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c > CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c.i
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_hcd.c.s
+
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/code.elf.dir/flags.make
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
@@ -294,7 +308,7 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.s: 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/code.elf.dir/flags.make
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
@@ -308,7 +322,7 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.s: 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/code.elf.dir/flags.make
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
@@ -322,7 +336,7 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/code.elf.dir/flags.make
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
@@ -336,7 +350,7 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.s: 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/code.elf.dir/flags.make
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
@@ -346,6 +360,160 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.
 CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s"
 	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.s
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj -MF CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.obj.d -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c > CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.i
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c -o CMakeFiles\code.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_ll_usb.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_keybd.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_mouse.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Class\HID\Src\usbh_hid_parser.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_core.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ctlreq.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_ioreq.c.s
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj -MF CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c.obj.d -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c > CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c.i
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c -o CMakeFiles\code.elf.dir\Middlewares\ST\STM32_USB_Host_Library\Core\Src\usbh_pipes.c.s
+
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.c
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj -MF CMakeFiles\code.elf.dir\USB_HOST\App\usb_host.c.obj.d -o CMakeFiles\code.elf.dir\USB_HOST\App\usb_host.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\App\usb_host.c
+
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\App\usb_host.c > CMakeFiles\code.elf.dir\USB_HOST\App\usb_host.c.i
+
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\App\usb_host.c -o CMakeFiles\code.elf.dir\USB_HOST\App\usb_host.c.s
+
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj: CMakeFiles/code.elf.dir/flags.make
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.c
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj: CMakeFiles/code.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj -MF CMakeFiles\code.elf.dir\USB_HOST\Target\usbh_conf.c.obj.d -o CMakeFiles\code.elf.dir\USB_HOST\Target\usbh_conf.c.obj -c C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\Target\usbh_conf.c
+
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\Target\usbh_conf.c > CMakeFiles\code.elf.dir\USB_HOST\Target\usbh_conf.c.i
+
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bigfo\Documents\cryptoboard\mxcode\code\USB_HOST\Target\usbh_conf.c -o CMakeFiles\code.elf.dir\USB_HOST\Target\usbh_conf.c.s
 
 # Object files for target code.elf
 code_elf_OBJECTS = \
@@ -364,11 +532,23 @@ code_elf_OBJECTS = \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" \
+"CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" \
 "CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj" \
-"CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+"CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj" \
+"CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj" \
+"CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj" \
+"CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj" \
+"CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj"
 
 # External object files for target code.elf
 code_elf_EXTERNAL_OBJECTS =
@@ -388,14 +568,26 @@ code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
 code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+code.elf: CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj
+code.elf: CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj
+code.elf: CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj
+code.elf: CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj
 code.elf: CMakeFiles/code.elf.dir/build.make
 code.elf: CMakeFiles/code.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking C executable code.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\bigfo\Documents\cryptoboard\mxcode\code\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking C executable code.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\code.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/bigfo/Documents/cryptoboard/mxcode/code/cmake-build-debug/code.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/bigfo/Documents/cryptoboard/mxcode/code/cmake-build-debug/code.bin"

@@ -22,9 +22,12 @@ CMakeFiles/code.elf.dir/Core/Src/main.c.obj: C:/Users/bigfo/Documents/cryptoboar
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -55,9 +58,11 @@ CMakeFiles/code.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: C:/Users/bigfo/Documen
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -89,9 +94,11 @@ CMakeFiles/code.elf.dir/Core/Src/stm32f1xx_it.c.obj: C:/Users/bigfo/Documents/cr
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -185,9 +192,11 @@ CMakeFiles/code.elf.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/bigfo/Document
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -217,9 +226,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: C:
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -249,9 +260,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -281,9 +294,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -313,9 +328,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.ob
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -345,9 +362,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.o
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -377,9 +396,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -409,9 +430,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.ob
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -441,9 +464,45 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -473,9 +532,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -505,9 +566,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -537,9 +600,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -569,9 +634,11 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -601,15 +668,785 @@ CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
+
+CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj: C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.c \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/main.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_gcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/cmsis_version.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
@@ -672,6 +1509,8 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
 
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c:
+
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/errno.h:
@@ -680,9 +1519,19 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/In
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h:
 
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h:
+
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h:
 
@@ -691,6 +1540,8 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h:
 
@@ -710,10 +1561,6 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/syscalls.c:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h:
-
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_time.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h:
@@ -725,8 +1572,6 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/signal.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h:
 
@@ -741,6 +1586,8 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h:
 
@@ -780,6 +1627,8 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Sr
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c:
 
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c:
+
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c:
@@ -789,3 +1638,49 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Sr
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.c:

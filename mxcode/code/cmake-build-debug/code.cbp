@@ -32,6 +32,10 @@
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -61,6 +65,10 @@
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"/>
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include"/>
 					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc"/>
+					<Add directory="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi"/>
 					<Add directory="c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/backward"/>
@@ -237,6 +245,9 @@
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h">
 			<Option target="code.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h">
+			<Option target="code.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h">
 			<Option target="code.elf"/>
 		</Unit>
@@ -276,6 +287,9 @@
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h">
 			<Option target="code.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h">
+			<Option target="code.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h">
 			<Option target="code.elf"/>
 		</Unit>
@@ -306,6 +320,9 @@
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c">
 			<Option target="code.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c">
+			<Option target="code.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c">
 			<Option target="code.elf"/>
 		</Unit>
@@ -321,7 +338,76 @@
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c">
 			<Option target="code.elf"/>
 		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c">
+			<Option target="code.elf"/>
+		</Unit>
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/STM32F107RBTX_FLASH.ld">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.c">
+			<Option target="code.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h">
 			<Option target="code.elf"/>
 		</Unit>
 		<Unit filename="C:/Users/bigfo/Documents/cryptoboard/mxcode/code/CMakeLists.txt">

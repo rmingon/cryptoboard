@@ -472,6 +472,30 @@ Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s
 .PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s
 
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.obj: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.obj
+
+# target to build an object file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.obj
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.i: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.i
+
+# target to preprocess a source file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.i
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.s: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.s
+
+# target to generate assembly for a file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.c.s
+
 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
 .PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj
 
@@ -592,6 +616,270 @@ Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s
 .PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s
 
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.obj: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.obj
+
+# target to build an object file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.obj
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.i: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.i
+
+# target to preprocess a source file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.i
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.s: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.s
+
+# target to generate assembly for a file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.obj: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.i: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.s: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.obj: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.i: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.s: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.obj: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.i: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.s: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.obj: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.i: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.s: Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.obj: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.i: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.s: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.obj: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.i: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.s: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.obj: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.i: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.s: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.c.s
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.obj: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.obj
+
+# target to build an object file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.obj
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.i: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.i
+
+# target to preprocess a source file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.i
+
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.s: Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.s
+
+# target to generate assembly for a file
+Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s
+.PHONY : Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.c.s
+
+USB_HOST/App/usb_host.obj: USB_HOST/App/usb_host.c.obj
+.PHONY : USB_HOST/App/usb_host.obj
+
+# target to build an object file
+USB_HOST/App/usb_host.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.obj
+.PHONY : USB_HOST/App/usb_host.c.obj
+
+USB_HOST/App/usb_host.i: USB_HOST/App/usb_host.c.i
+.PHONY : USB_HOST/App/usb_host.i
+
+# target to preprocess a source file
+USB_HOST/App/usb_host.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.i
+.PHONY : USB_HOST/App/usb_host.c.i
+
+USB_HOST/App/usb_host.s: USB_HOST/App/usb_host.c.s
+.PHONY : USB_HOST/App/usb_host.s
+
+# target to generate assembly for a file
+USB_HOST/App/usb_host.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/App/usb_host.c.s
+.PHONY : USB_HOST/App/usb_host.c.s
+
+USB_HOST/Target/usbh_conf.obj: USB_HOST/Target/usbh_conf.c.obj
+.PHONY : USB_HOST/Target/usbh_conf.obj
+
+# target to build an object file
+USB_HOST/Target/usbh_conf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.obj
+.PHONY : USB_HOST/Target/usbh_conf.c.obj
+
+USB_HOST/Target/usbh_conf.i: USB_HOST/Target/usbh_conf.c.i
+.PHONY : USB_HOST/Target/usbh_conf.i
+
+# target to preprocess a source file
+USB_HOST/Target/usbh_conf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.i
+.PHONY : USB_HOST/Target/usbh_conf.c.i
+
+USB_HOST/Target/usbh_conf.s: USB_HOST/Target/usbh_conf.c.s
+.PHONY : USB_HOST/Target/usbh_conf.s
+
+# target to generate assembly for a file
+USB_HOST/Target/usbh_conf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\code.elf.dir\build.make CMakeFiles/code.elf.dir/USB_HOST/Target/usbh_conf.c.s
+.PHONY : USB_HOST/Target/usbh_conf.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -644,6 +932,9 @@ help:
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.obj
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.i
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.s
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.obj
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.i
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_hcd.s
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.i
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.s
@@ -659,6 +950,39 @@ help:
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.obj
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.i
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.s
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.obj
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.i
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_parser.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.s
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.obj
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.i
+	@echo ... Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.s
+	@echo ... USB_HOST/App/usb_host.obj
+	@echo ... USB_HOST/App/usb_host.i
+	@echo ... USB_HOST/App/usb_host.s
+	@echo ... USB_HOST/Target/usbh_conf.obj
+	@echo ... USB_HOST/Target/usbh_conf.i
+	@echo ... USB_HOST/Target/usbh_conf.s
 .PHONY : help
 
 
