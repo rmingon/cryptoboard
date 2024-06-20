@@ -27,13 +27,52 @@ CMakeFiles/code.elf.dir/Core/Src/main.c.obj: C:/Users/bigfo/Documents/cryptoboar
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h \
   C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h \
+  C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/ieeefp.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_sigset.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/reent.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/sched.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h \
+  C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
   C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h
 
@@ -1461,6 +1500,8 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_hal_conf.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:
 
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h:
+
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f107xc.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
@@ -1472,6 +1513,8 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/alloca.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/newlib.h:
 
@@ -1489,11 +1532,7 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/CMSIS/Include/core_cm3.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/time.h:
-
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_it.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h:
 
@@ -1511,9 +1550,9 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/In
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_keybd.c:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
-
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/errno.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
 
@@ -1531,57 +1570,57 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timeval.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_newlib_version.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_mouse.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_stdint.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/App/usb_host.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h:
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/stm32f1xx_hal_msp.c:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/stm32f1xx_it.c:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/syscalls.c:
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/_ansi.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_time.h:
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_default_types.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_types.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/endian.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/signal.h:
-
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdio.h:
 
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h:
+
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/stdlib.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_intsup.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_pthreadtypes.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/_timespec.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/errno.h:
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/features.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/cdefs.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/config.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/lock.h:
 
@@ -1591,21 +1630,43 @@ C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/select.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/signal.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stat.h:
-
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stdio.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/times.h:
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/timespec.h:
 
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/types.h:
 
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/time.h:
-
 C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/stm32f1xx_hal_msp.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/stm32f1xx_it.c:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Inc/stm32f1xx_it.h:
+
+C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/syscalls.c:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/_time.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/machine/time.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/signal.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/errno.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/signal.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/stat.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/times.h:
+
+C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/time.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Core/Src/sysmem.c:
 
@@ -1643,31 +1704,9 @@ C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Drivers/STM32F1xx_HAL_Driver/Sr
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:
 
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_keybd.h:
-
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_parser.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Inc/usbh_hid_usage.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_core.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ctlreq.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_def.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_ioreq.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Core/Inc/usbh_pipes.h:
-
-C:/Users/bigfo/Documents/cryptoboard/mxcode/code/USB_HOST/Target/usbh_conf.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/string.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/strings.h:
-
-C:/Program\ Files\ (x86)/GNU\ Arm\ Embedded\ Toolchain/10\ 2021.10/arm-none-eabi/include/sys/string.h:
 
 C:/Users/bigfo/Documents/cryptoboard/mxcode/code/Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid_mouse.c:
 

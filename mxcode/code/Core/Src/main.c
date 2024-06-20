@@ -18,6 +18,9 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+
+#include "usbh_def.h"
+#include "usbh_hid_mouse.h"
 #include "usb_host.h"
 
 /* Private includes ----------------------------------------------------------*/
@@ -100,9 +103,6 @@ int main(void)
   {
     /* USER CODE END WHILE */
     MX_USB_HOST_Process();
-
-    HAL_GPIO_TogglePin (GPIOA, GPIO_PIN_1);
-    HAL_Delay (100);
 
     /* USER CODE BEGIN 3 */
   }

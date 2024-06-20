@@ -861,10 +861,26 @@ uint16_t USBH_HID_FifoWrite(FIFO_TypeDef *f, void *buf, uint16_t  nbytes)
 *  @param  phost: Selected device
 * @retval None
 */
-__weak void USBH_HID_EventCallback(USBH_HandleTypeDef *phost)
+void USBH_HID_EventCallback(USBH_HandleTypeDef *phost)
 {
-  /* Prevent unused argument(s) compilation warning */
-  UNUSED(phost);
+  if(USBH_HID_GetDeviceType(phost) == HID_MOUSE)  // if the HID is Mouse
+  {
+    HID_MOUSE_Info_TypeDef *Mouse_Info;
+    Mouse_Info = USBH_HID_GetMouseInfo(phost);  // Get the info
+    int X_Val = Mouse_Info->x;  // get the x value
+    int Y_Val = Mouse_Info->y;  // get the y value
+    if (X_Val > 127) X_Val -= 255;
+    if (Y_Val > 127) Y_Val -= 255;
+  }
+
+  if(USBH_HID_GetDeviceType(phost) == HID_KEYBOARD)  // if the HID is Mouse
+  {
+    uint8_t key;
+    HID_KEYBD_Info_TypeDef *Keyboard_Info;
+    Keyboard_Info = USBH_HID_GetKeybdInfo(phost);  // get the info
+    key = USBH_HID_GetASCIICode(Keyboard_Info);  // get the key presse
+    HAL_GPIO_TogglePin (GPIOA, GPIO_PIN_1);
+  }
 }
 /**
 * @}
