@@ -15,4 +15,4 @@
 ../Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:761:6:USBH_HID_FifoInit	1
 ../Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:778:10:USBH_HID_FifoRead	5
 ../Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:822:10:USBH_HID_FifoWrite	7
-../Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:864:6:USBH_HID_EventCallback	5
+../Middlewares/ST/STM32_USB_Host_Library/Class/HID/Src/usbh_hid.c:864:13:USBH_HID_EventCallback	1
