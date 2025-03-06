@@ -46,3 +46,12 @@ The messaging protocol is implemented at a very **low level**, avoiding standard
 ## **Conclusion**
 
 This project is perfect for individuals or organizations needing **absolute privacy** in communications. Whether for personal security, journalistic protection, or sensitive military applications, our STM32F103-based system ensures that messages remain confidential and beyond the reach of any third-party eavesdropping.
+
+### Real
+![real](./real.jpg)
+### 3d
+![3D](./3d.png)
+### PCB
+![pcb](./pcb.png)
+### Schematic
+![schematic](./schematic.png)
